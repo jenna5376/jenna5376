@@ -1,4 +1,4 @@
 - 👋 Hi, my name is Jenna Han
 - 🎓 I’m currently studying Interactive Media Arts and Computer Science at NYU
-- 🌐 You can check out my portfolio (work in progress) [here](https://jenna5376.github.io/few/portfolio/)
+- 🌐 You can check out my portfolio[here](https://jenna5376.github.io/portfolio/)
 - ✉️ Feel free to reach out to me at jenna5376@gmail.com!
