@@ -19,16 +19,16 @@
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescrip)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![Socket](https://img.shields.io/badge/-Socket-000000?style=flat&logo=Socket.io&logoColor=61DAFB)
-![p5.js](https://img.shields.io/badge/-p5.js-000000?style=flat&logo=p5dotjs&logoColor=61DAFB)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=threedotjs&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
+![Socket](https://img.shields.io/badge/-Socket-000000?style=flat&logo=Socket.io)
+![p5.js](https://img.shields.io/badge/-p5.js-000000?style=flat&logo=p5dotjs)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=threedotjs)
 
 <br/>
 
