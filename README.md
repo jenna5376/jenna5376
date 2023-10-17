@@ -2,7 +2,7 @@
 
 <br/>
 
-<p>👩‍💻 I'm a multidisciplinary designer and developer based in NYC!</p>
+<p>👩‍💻 I'm a multidisciplinary designer and developer based in NYC</p>
 <p>🎓 I’m currently double majoring in Interactive Media Arts and Computer Science at NYU</p>
 <p>💌 Feel free to reach out to me at <a href="mailto:jennahan@nyu.edu">jennahan@nyu.edu</a></p>
 
