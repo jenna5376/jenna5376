@@ -5,11 +5,6 @@
 <p>👩‍💻 I'm a multidisciplinary designer and developer based in NYC</p>
 <p>🎓 I’m currently double majoring in Interactive Media Arts and Computer Science at NYU</p>
 <p>💌 Feel free to reach out to me at <a href="mailto:jennahan@nyu.edu">jennahan@nyu.edu</a></p>
-
-<br/>
-
-<h3>Websites</h3>
-<p>🌐 Check out my portfolio <a href="https://www.hanjenna.com/" target="_blank">here</a>. I have both design and web dev works!</p>
 <p>👉 Connect with me on <a href="https://www.linkedin.com/in/jenna-juhee-han" target="_blank">LinkedIn</a> </p>
 
 <br/>
