@@ -13,7 +13,6 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3)
-![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=SASS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
@@ -24,6 +23,8 @@
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB)
+![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=SASS)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwindcss)
 ![Socket](https://img.shields.io/badge/-Socket-000000?style=flat&logo=Socket.io)
 ![p5.js](https://img.shields.io/badge/-p5.js-000000?style=flat&logo=p5dotjs)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=threedotjs)
